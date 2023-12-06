@@ -12,6 +12,8 @@ std::string s1, s2;
 
 int main()
 {
+      freopen("data/Integer2/14.in", "r", stdin);
+    freopen("data/Integer2/self_14.out", "w", stdout);
     for (int i = 1; i <= 100; i++)
     {
         a = 0, b = 0;

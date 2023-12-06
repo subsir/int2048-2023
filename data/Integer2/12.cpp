@@ -11,6 +11,9 @@ sjtu::int2048 a, b;
 
 int main()
 {
+              freopen("data/Integer2/12.in", "r", stdin);
+    freopen("data/Integer2/self_12.out", "w", stdout);
+
     for (int j = 1; j <= 100; j++)
     {
         a = j; b = j + 1;

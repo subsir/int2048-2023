@@ -1,3 +1,4 @@
+
 /*
 Time: 2021-10-20
 Test: add & minus (signed)
@@ -12,6 +13,8 @@ std::string s;
 
 int main()
 {
+    freopen("data/Integer1/5.in", "r", stdin);
+    freopen("data/Integer1/self_5.out", "w", stdout);
     int n;
     std::cin >> n;
     for (int i = 1; i <= n; i++)

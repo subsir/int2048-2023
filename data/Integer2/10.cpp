@@ -12,6 +12,8 @@ std::string s;
 
 int main()
 {
+        freopen("data/Integer2/10.in", "r", stdin);
+    freopen("data/Integer2/self_10.out", "w", stdout);
     int n;
     std::cin >> n;
     a = 1;
