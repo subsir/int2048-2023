@@ -61,7 +61,7 @@ std::cout
 - 高精度除法 15\%
 - 压位高精度加、减、乘法 30\%
 - 压位高精度除法 15\%
-- BONUS：压位快速高精度除法（分治乘法） 1\%
+- BONUS：压位快速高精度乘法（分治乘法） 1\%
 - BONUS：压位快速高精度除法（二分加速试商） 4\%
 
 #### A 班
@@ -105,3 +105,8 @@ PS：BONUS 部分对代码性能也有要求，需要通过对应的测试数据
 [高精度基础算法](https://baobaobear.github.io/post/20210228-bigint1/)
 
 [分治除法以及相关算法](https://baobaobear.github.io/post/20210320-bigint3/)
+
+[分治除法](https://ridiculousfish.com/blog/posts/labor-of-division-episode-iv.html
+)
+
+[牛顿迭代法](https://www.luogu.com.cn/blog/88403/solution-p5432)
